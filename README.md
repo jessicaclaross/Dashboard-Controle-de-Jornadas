@@ -6,7 +6,7 @@ O objetivo foi centralizar indicadores de horas programadas x realizadas, efici√
 
 # Dashboard
 
-![Dashboard](Controle de Jornadas.png)
+(Controle de Jornadas.png)
 
 # Problema
 
