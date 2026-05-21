@@ -1,4 +1,4 @@
-# 📊 Dashboard de Controle de Jornada – Transporte Público
+# 📊 Dashboard de Controle de Jornada
 
 Projeto desenvolvido para transformar dados operacionais de jornada de motoristas em informações estratégicas para tomada de decisão.
 
